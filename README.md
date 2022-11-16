@@ -1,2 +1,2 @@
 # custom-charts
-Custom HPCC Helm Charts
+Custom HPCC Platform Helm Charts
